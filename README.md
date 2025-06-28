@@ -10,4 +10,5 @@ A simple toggle switch built with only HTML and CSS.
 
 ## How to Use
 Just open `index.html` in a browser.
+index.html is in togglebutton folder
 
